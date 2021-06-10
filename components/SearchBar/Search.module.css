@@ -1,0 +1,17 @@
+.coin_search {
+    margin: 0 auto 64px auto;
+    display: flex;
+    align-items: center;
+    width: 300px;
+  }
+  
+  .coin_input {
+    border: none;
+    padding: 16px;
+    border-radius: 4px;
+    outline: none;
+    height: 100%;
+    width: 100%;
+  }
+
+  
